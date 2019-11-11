@@ -1,0 +1,9 @@
+E:\My Downloads\LTicket\LTicket\bin\Debug\LTicket.exe.config
+E:\My Downloads\LTicket\LTicket\bin\Debug\LTicket.exe
+E:\My Downloads\LTicket\LTicket\bin\Debug\LTicket.pdb
+E:\My Downloads\LTicket\LTicket\obj\Debug\LTicket.csprojResolveAssemblyReference.cache
+E:\My Downloads\LTicket\LTicket\obj\Debug\LTicket.Form1.resources
+E:\My Downloads\LTicket\LTicket\obj\Debug\LTicket.Properties.Resources.resources
+E:\My Downloads\LTicket\LTicket\obj\Debug\LTicket.csproj.GenerateResource.Cache
+E:\My Downloads\LTicket\LTicket\obj\Debug\LTicket.exe
+E:\My Downloads\LTicket\LTicket\obj\Debug\LTicket.pdb

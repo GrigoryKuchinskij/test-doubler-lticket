@@ -1,0 +1,9 @@
+E:\My Downloads\Doubler\Doubler\bin\Release\Doubler.exe.config
+E:\My Downloads\Doubler\Doubler\bin\Release\Doubler.exe
+E:\My Downloads\Doubler\Doubler\bin\Release\Doubler.pdb
+E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.Form1.resources
+E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.Properties.Resources.resources
+E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.csproj.GenerateResource.Cache
+E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.exe
+E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.pdb
+E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.csprojAssemblyReference.cache
