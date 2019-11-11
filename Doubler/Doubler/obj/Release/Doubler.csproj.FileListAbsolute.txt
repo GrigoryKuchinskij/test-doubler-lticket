@@ -7,3 +7,6 @@ E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.csproj.GenerateResource.Cach
 E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.exe
 E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.pdb
 E:\My Downloads\Doubler\Doubler\obj\Release\Doubler.csprojAssemblyReference.cache
+E:\test-doubler-lticket\Doubler\Doubler\bin\Release\Doubler.exe.config
+E:\test-doubler-lticket\Doubler\Doubler\obj\Release\Doubler.exe
+E:\test-doubler-lticket\Doubler\Doubler\obj\Release\Doubler.pdb

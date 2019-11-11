@@ -6,3 +6,7 @@ E:\My Downloads\LTicket\LTicket\obj\Release\LTicket.Properties.Resources.resourc
 E:\My Downloads\LTicket\LTicket\obj\Release\LTicket.csproj.GenerateResource.Cache
 E:\My Downloads\LTicket\LTicket\obj\Release\LTicket.exe
 E:\My Downloads\LTicket\LTicket\obj\Release\LTicket.pdb
+E:\My Downloads\LTicket\LTicket\obj\Release\LTicket.csprojResolveAssemblyReference.cache
+E:\test-doubler-lticket\LTicket\LTicket\bin\Release\LTicket.exe.config
+E:\test-doubler-lticket\LTicket\LTicket\obj\Release\LTicket.exe
+E:\test-doubler-lticket\LTicket\LTicket\obj\Release\LTicket.pdb

@@ -43,6 +43,7 @@
             // 
             // buttonCalc
             // 
+            this.buttonCalc.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.buttonCalc.Location = new System.Drawing.Point(187, 9);
             this.buttonCalc.Name = "buttonCalc";
             this.buttonCalc.Size = new System.Drawing.Size(71, 49);
@@ -68,7 +69,10 @@
             this.Controls.Add(this.label);
             this.Controls.Add(this.buttonCalc);
             this.Controls.Add(this.textBoxOutp);
+            this.MaximizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(286, 109);
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "\"Счасливый\" билет";
             this.ResumeLayout(false);
             this.PerformLayout();
